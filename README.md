@@ -21,6 +21,10 @@
 2. 2023 Школа Нетология: Java-разработка для начинающих. [Посмотреть диплом](https://github.com/Aaaleenka/documents/blob/main/certificate.pdf)
 ---
 ### :woman_technologist: Experience :
+##### **Что я могу показать:**
+1. Дипломную работу. [Поисковая система](https://github.com/Aaaleenka/pcs-final-diplom)
+2. Курсовую работу. [Конвертер в текстовую графику](Загрузить на гитхаб)
+
 ##### **У меня небольшой актуальный опыт, но интересное прошлое:**
 
 11 класс
@@ -42,10 +46,6 @@
 3. городская олимпиада по информатике 9 класс [2 место](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.50.16.jpeg)
 4. зональная олимпиада по математике и ифнорматике 9 класс [2 место](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.50.17.jpeg)
 
-
-##### **Что я могу показать:**
-1. Дипломную работу. [Поисковая система](https://github.com/Aaaleenka/pcs-final-diplom)
-2. Курсовую работу. [Конвертер в текстовую графику](Загрузить на гитхаб)
 ---
 ### :hammer_and_wrench: Tools :
 
