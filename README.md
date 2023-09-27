@@ -17,14 +17,31 @@
 
 ---
 ### :woman_student:  Education :
-1. 2008-2012 (бакалавр) НИУ-ВШЭ, Москва. Факультет бизнес-информатика. [Посмотреть диплом]()
+1. 2008-2012 (бакалавр) НИУ-ВШЭ, Москва. Факультет бизнес-информатика. [Посмотреть диплом](https://github.com/Aaaleenka/documents/blob/main/1.jpeg)
 2. 2023 Школа Нетология: Java-разработка для начинающих. [Посмотреть диплом](https://github.com/Aaaleenka/documents/blob/main/certificate.pdf)
 ---
 ### :woman_technologist: Experience :
 ##### **У меня небольшой актуальный опыт, но интересное прошлое:**
-1. Диплом ваыв
-2.  вава
-3.вавы
+
+11 класс
+1. 3ий региональный этап Всероссийской олимпиады по информатике [(2 место)](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.38.13.jpeg)
+2. городская олимпиада по информатике [(3 место)](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.38.16.jpeg)
+3. городская олимпиада по математике [(3 место)](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.38.13.jpeg)
+4. зональная олимпиада по математике и ифнорматике [(2 место)](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.38.17.jpeg)
+5. сертификат Pascal [посмотреть](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.38.15.jpeg)
+
+10 класс
+1. зональная олимпиада по математике и ифнорматике [(2 место)](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.48.48.jpeg)
+2. городской конкурс детских сайтов [3 место](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.48.46.jpeg)
+3. московская командная олимпиада по информатике [3 место](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.48.47.jpeg)
+4. городская олимпиада по информатике [2 место](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.50.17%20(1).jpeg)
+
+остальне классы
+1. городская олимпиада по информатике 5 класс [3 место](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.50.14.jpeg)
+2. городская олимпиада по информатике 7 класс [3 место](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.50.15.jpeg)
+3. городская олимпиада по информатике 9 класс [2 место](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.50.16.jpeg)
+4. зональная олимпиада по математике и ифнорматике 9 класс [2 место](https://github.com/Aaaleenka/documents/blob/main/photo_2023-09-27%2013.50.17.jpeg)
+
 
 ##### **Что я могу показать:**
 1. Дипломную работу. [Поисковая система](https://github.com/Aaaleenka/pcs-final-diplom)
