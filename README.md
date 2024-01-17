@@ -49,13 +49,15 @@
 ---
 ### :hammer_and_wrench: Tools :
 
-+ Основы Git, Java Core
++ Git, Java Core
 + Основы работы с сетью (tcp, ip, http)
++ Основы SQL
++ Web, Spring & Spring MVC
 + Шаблоны проектирования
 + Stream API, работа с файлами 
 + Cборка проектов Maven
++ Unit-тесты
 + Алгоритмы
-
 ____
 ### :woman:  About me:
 
